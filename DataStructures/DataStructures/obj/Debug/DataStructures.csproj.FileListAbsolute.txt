@@ -1,0 +1,6 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
