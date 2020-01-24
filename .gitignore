@@ -1,0 +1,12 @@
+/.vs/*
+*-shm
+*-wal
+*.cache
+DataStructures/DataStructures/obj/Debug/DataStructures.csprojAssemblyReference.cache
+*.exe
+*.pdb
+DataStructures/DataStructures/bin/Debug/DataStructures.exe.config
+*.ide
+DataStructures/.vs/DataStructures/v16/.suo
+DataStructures/.vs/DataStructures/v16/.suo
+*.ide
