@@ -10,3 +10,17 @@ DataStructures/DataStructures/bin/Debug/DataStructures.exe.config
 DataStructures/.vs/DataStructures/v16/.suo
 DataStructures/.vs/DataStructures/v16/.suo
 *.ide
+DataStructures/DataStructures/bin/*
+*.config
+*.dll
+*.ide
+*.ide
+*.ide
+*.ide
+*.cache
+*.cache
+DataStructures/TechDevGuide/bin/Debug/System.Reflection.Metadata.xml
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\TechDevGuide\bin\*
+DataStructures/TechDevGuide/obj/Debug/TechDevGuide.csproj.FileListAbsolute.txt
+DataStructures/TechDevGuide/obj/Debug/*
+DataStructures/TechDevGuide/bin/Debug/System.Buffers.xml

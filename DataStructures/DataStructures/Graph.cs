@@ -1,24 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataStructures
 {
     class Graph
     {
         //number of vertices
-        private int V;
+        private readonly int V;
 
         //Vetor of list for adjacenty list
-        private List<int>[] adj;
+        private readonly List<int>[] adj;
 
         /// <summary>
         /// Constructor
         /// </summary>
         /// <param name="v">numbers of vertices</param>
-        public Graph (int v)
+        public Graph(int v)
         {
             V = v;
             adj = new List<int>[v];
