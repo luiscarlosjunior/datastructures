@@ -8,10 +8,11 @@ namespace SearchingAlgorithms
 
         private static void Main(string[] args)
         {
-            LinearSearch();
-            BinaySearch();
-            JumpSearch();
-            InterpolationSearch();
+            //LinearSearch();
+            //BinaySearch();
+            //JumpSearch();
+            //InterpolationSearch();
+            FibonatiSearch();
         }
 
         private static void LinearSearch()
@@ -61,6 +62,16 @@ namespace SearchingAlgorithms
             int result = sl.InterpolationSearch(arr, x);
 
             Console.WriteLine("The number is: " + result);
+        }
+
+        private static void FibonatiSearch()
+        {
+            int[] arr = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 40 };
+            int x = 10;
+            int result = sl.FibonacciSearch(arr, x, arr.Length);
+
+            Console.WriteLine("The number is: " + result);
+            Console.ReadLine();
         }
     }
 }
