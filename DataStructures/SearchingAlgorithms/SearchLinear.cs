@@ -184,9 +184,52 @@ namespace SearchingAlgorithms
 
         public int FibonacciSearch(int[] arr, int value, int size)
         {
-            // Inicializa os numeros de fib
-            .
+            int fib2 = 0; // (m-2)'th numero de fib
+            int fib1 = 1; // (m-1)'th numero de fib
+            int fibNext = fib2 + fib1;
+
+            while (fibNext < size)
+            {
+                fib2 = fib1;
+                fib1 = fibNext;
+                fibNext = fib2 + fib1;
+            }
+
+            //Marca o espaço a ser eliminado
+            int offset = -1;
+
+            // Enquanto existirem elementos a ser inpecionado.
+            while (fibNext > 1)
+            {
+                int i = min(offset + fib2, size - 1);
+
+                if (arr[i] < value)
+                {
+                    fibNext = fib1;
+                    fib1 = fib2;
+                    fib2 = fibNext - fib1;
+                    offset = i;
+                }
+                else if (arr[i] > value)
+                {
+                    fibNext = fib2;
+                    fib1 = fib1 - fib2;
+                    fib2 = fibNext - fib1;
+                }
+                else return i;
+            }
+
+            if (fib1 == 1 && arr[offset+1] == value)
+            {
+                return offset + 1;
+            }
+
             return -1;
+        }
+
+        public static int min(int x, int y)
+        {
+            return (x <= y) ? x : y;
         }
     }
 }

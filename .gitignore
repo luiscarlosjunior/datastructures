@@ -24,3 +24,5 @@ C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\TechDevGuide\bin\*
 DataStructures/TechDevGuide/obj/Debug/TechDevGuide.csproj.FileListAbsolute.txt
 DataStructures/TechDevGuide/obj/Debug/*
 DataStructures/TechDevGuide/bin/Debug/System.Buffers.xml
+DataStructures/.vs/DataStructures/v16/Server/sqlite3/storage.ide
+*.ide
