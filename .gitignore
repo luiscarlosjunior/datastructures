@@ -26,3 +26,9 @@ DataStructures/TechDevGuide/obj/Debug/*
 DataStructures/TechDevGuide/bin/Debug/System.Buffers.xml
 DataStructures/.vs/DataStructures/v16/Server/sqlite3/storage.ide
 *.ide
+*.db
+*.opendb
+*.ide
+*.ipch
+DataStructures/DataStructures/obj/Debug/DataStructures.csproj.FileListAbsolute.txt
+*.cache
