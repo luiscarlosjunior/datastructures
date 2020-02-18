@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hackerhank", "Hackerhank\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorWars", "WarriorWars\WarriorWars.csproj", "{51EC6DA1-364E-4108-AB6A-13494EF8890F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDataStructereAlgorithms", "ClassDataStructereAlgorithms\ClassDataStructereAlgorithms.csproj", "{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,18 @@ Global
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x64.Build.0 = Release|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x86.ActiveCfg = Release|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x86.Build.0 = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x64.Build.0 = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x86.Build.0 = Debug|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x64.ActiveCfg = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x64.Build.0 = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x86.ActiveCfg = Release|Any CPU
+		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

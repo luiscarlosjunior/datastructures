@@ -8,10 +8,28 @@ namespace TestPerformance
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine(4 / 2);
-            //TestListArray();
-            TestMatrix();
+            // Console.WriteLine(4 / 2);
+            // TestListArray();
+            // TestMatrix();
+            ContainString();
+
             Console.ReadLine();
+        }
+
+        private static void ContainString()
+        {
+            string texto1 = "ACH CHECKING";
+            string texto2 = "{RawText:Payment-ACH Checking}";
+
+            texto2 = texto2.Substring(17, 12).ToUpper();
+
+            Console.WriteLine(texto2);
+
+            if (texto2.Equals(texto1))
+            {
+                Console.WriteLine("Ok");
+            }
+
         }
 
         public static void TestMatrix()
