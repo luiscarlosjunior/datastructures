@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{72231A51-89FE-4950-B6FE-B95B42CC9DF9}</ProjectGuid>
+    <ProjectGuid>{3DE78056-0F53-4A6D-B2F3-151D2CD2FB89}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Hackerhank</RootNamespace>
+    <RootNamespace>Algorithms</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Hackerhank.cpp" />
+    <ClCompile Include="Algorithms.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
