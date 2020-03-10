@@ -1,6 +1,0 @@
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.exe.config
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.exe
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.pdb
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.csprojAssemblyReference.cache
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.exe
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.pdb
