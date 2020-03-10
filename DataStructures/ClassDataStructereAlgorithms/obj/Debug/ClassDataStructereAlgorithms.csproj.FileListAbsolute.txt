@@ -1,6 +1,0 @@
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\bin\Debug\ClassDataStructereAlgorithms.exe.config
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\bin\Debug\ClassDataStructereAlgorithms.exe
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\bin\Debug\ClassDataStructereAlgorithms.pdb
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\obj\Debug\ClassDataStructereAlgorithms.csprojAssemblyReference.cache
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\obj\Debug\ClassDataStructereAlgorithms.exe
-C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ClassDataStructereAlgorithms\obj\Debug\ClassDataStructereAlgorithms.pdb
