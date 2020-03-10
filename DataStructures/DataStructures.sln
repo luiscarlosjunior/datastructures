@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "DataStructures\Graphs.csproj", "{46FE0638-90E3-4032-A8E4-3359DFD250D6}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{959A9671-B43F-4C56-A9B8-1291E83B965B}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
@@ -13,8 +11,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingLinear", "SearchingAlgorithms\SearchingLinear.csproj", "{26283343-F389-41D1-BF5C-7E972F04D42F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorWars", "WarriorWars\WarriorWars.csproj", "{51EC6DA1-364E-4108-AB6A-13494EF8890F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDataStructere", "ClassDataStructereAlgorithms\ClassDataStructere.csproj", "{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +22,7 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream
 		{46FE0638-90E3-4032-A8E4-3359DFD250D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{46FE0638-90E3-4032-A8E4-3359DFD250D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46FE0638-90E3-4032-A8E4-3359DFD250D6}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -50,6 +47,8 @@ Global
 		{26283343-F389-41D1-BF5C-7E972F04D42F}.Release|x64.Build.0 = Release|Any CPU
 		{26283343-F389-41D1-BF5C-7E972F04D42F}.Release|x86.ActiveCfg = Release|Any CPU
 		{26283343-F389-41D1-BF5C-7E972F04D42F}.Release|x86.Build.0 = Release|Any CPU
+=======
+>>>>>>> Stashed changes
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -62,18 +61,6 @@ Global
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x64.Build.0 = Release|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x86.ActiveCfg = Release|Any CPU
 		{51EC6DA1-364E-4108-AB6A-13494EF8890F}.Release|x86.Build.0 = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x64.Build.0 = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Debug|x86.Build.0 = Debug|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x64.ActiveCfg = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x64.Build.0 = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x86.ActiveCfg = Release|Any CPU
-		{4D85A3CA-5A34-450A-B1B8-6EEA6E157AE9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
