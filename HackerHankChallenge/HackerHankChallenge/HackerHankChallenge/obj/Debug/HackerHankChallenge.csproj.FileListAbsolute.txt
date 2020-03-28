@@ -1,0 +1,6 @@
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\bin\Debug\HackerHankChallenge.exe.config
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\bin\Debug\HackerHankChallenge.exe
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\bin\Debug\HackerHankChallenge.pdb
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\obj\Debug\HackerHankChallenge.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\obj\Debug\HackerHankChallenge.exe
+C:\Users\luisc\Documents\GitHub\HackerHankChallenge\HackerHankChallenge\HackerHankChallenge\obj\Debug\HackerHankChallenge.pdb
