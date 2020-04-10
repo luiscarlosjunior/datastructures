@@ -4,3 +4,4 @@ C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\WarriorWars\bin\De
 C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\WarriorWars\obj\Debug\WarriorWars.csprojAssemblyReference.cache
 C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\WarriorWars\obj\Debug\WarriorWars.exe
 C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\WarriorWars\obj\Debug\WarriorWars.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\WarriorWars\obj\Debug\WarriorWars.csproj.CoreCompileInputs.cache
