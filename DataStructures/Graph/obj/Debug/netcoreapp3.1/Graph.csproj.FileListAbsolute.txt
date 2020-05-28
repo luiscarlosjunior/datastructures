@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

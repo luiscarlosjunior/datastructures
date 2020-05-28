@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.deps.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.dll
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\bin\Debug\netcoreapp3.1\Notation Big-O.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.dll
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\Notation Big-O\obj\Debug\netcoreapp3.1\Notation Big-O.genruntimeconfig.cache
