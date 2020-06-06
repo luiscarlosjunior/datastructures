@@ -7,5 +7,10 @@ namespace Graph
     class BFS
     {
 
+        private int V;
+        private LinkedList<int>[] adj; // Listas adjacentes
+
+
+
     }
 }
