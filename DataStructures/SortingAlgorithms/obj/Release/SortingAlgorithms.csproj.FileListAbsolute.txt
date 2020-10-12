@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\bin\Release\SortingAlgorithms.exe.config
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\bin\Release\SortingAlgorithms.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\bin\Release\SortingAlgorithms.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\obj\Release\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\obj\Release\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\obj\Release\SortingAlgorithms.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\SortingAlgorithms\obj\Release\SortingAlgorithms.pdb
