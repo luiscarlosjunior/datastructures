@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
