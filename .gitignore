@@ -33,3 +33,5 @@ DataStructures/.vs/DataStructures/v16/Server/sqlite3/storage.ide
 DataStructures/DataStructures/obj/Debug/DataStructures.csproj.FileListAbsolute.txt
 *.cache
 DataStructures/SearchingAlgorithms/obj/Debug/SearchingAlgorithms.csproj.FileListAbsolute.txt
+*.suo
+*.v2
