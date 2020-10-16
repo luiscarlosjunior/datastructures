@@ -1,0 +1,7 @@
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\bin\Debug\List_datastructre.exe.config
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\bin\Debug\List_datastructre.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\bin\Debug\List_datastructre.pdb
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\obj\Debug\List_datastructre.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\obj\Debug\List_datastructre.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\obj\Debug\List_datastructre.exe
+C:\Users\luisc\Documents\GitHub\datastructures\DataStructures\List_datastructre\obj\Debug\List_datastructre.pdb
